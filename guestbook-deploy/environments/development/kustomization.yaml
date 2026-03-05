@@ -5,4 +5,4 @@ resources:
 images:
   - name: guestbook-ui
     newName: gcr.io/google-samples/gb-frontend
-    newTag: v4
+    newTag: v5
