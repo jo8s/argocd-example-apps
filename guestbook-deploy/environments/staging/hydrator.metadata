@@ -1,0 +1,7 @@
+{
+  "repoURL": "https://github.com/jo8s/argocd-example-apps",
+  "drySha": "c9541a59c81dc41f1fb18df66e1d121a94494709",
+  "commands": [
+    "kustomize build ./guestbook-deploy/environments/staging"
+  ]
+}
